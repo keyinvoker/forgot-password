@@ -1,0 +1,15 @@
+python-dotenv
+requests
+pandas
+pg8000
+
+Flask
+Flask-RESTful
+flask-sqlalchemy
+flask-marshmallow
+marshmallow-sqlalchemy
+flask_wtf
+flask-cors
+
+waitress
+gunicorn
